@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="Abstract" size="0.137000 0.171250" />
     <ImageTarget name="iAcademyLogo" size="0.115000 0.115000" />
   </Tracking>
 </QCARConfig>
